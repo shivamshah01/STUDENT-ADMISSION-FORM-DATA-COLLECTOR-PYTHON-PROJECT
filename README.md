@@ -61,52 +61,11 @@ When the program runs, the following menu appears:
 4. Exit
 ```
 
----
-
-## 🚀 **How to Run**
 
 ### **Requirements**
 - Python 3.x  
 - Works on Windows, Linux, and macOS  
 
-### **Steps**
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/Student-Admission-Data-Collector.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd Student-Admission-Data-Collector
-```
-
-3. Run the program:
-
-```bash
-python main.py
-```
-
-4. Follow the on-screen instructions.
-
----
-
-## 📷 **Sample Output**
-
-```
-====================================
-   STUDENT ADMISSION DATA COLLECTOR 
-====================================
-1. Add New Admission
-2. View All Admissions
-3. Search Admission by ID
-4. Exit
-====================================
-Enter your choice (1-4):
-```
-
----
 
 ## 📈 **Future Enhancements**
 
@@ -118,17 +77,3 @@ Enter your choice (1-4):
 - Search by name, course, phone number
 - Web-based version using Flask or Django
 
----
-
-## 📚 **References**
-
-- Python Documentation – https://docs.python.org  
-- File I/O in Python – https://docs.python.org/3/tutorial/inputoutput.html  
-- OS Module Docs – https://docs.python.org/3/library/os.html  
-
----
-
-## 👨‍💻 **Author**
-
-**Your Name**  
-Python Developer • Student Programmer
